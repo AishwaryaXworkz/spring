@@ -1,0 +1,8 @@
+com\xworkz\leoffers\dto\LeOffersDto.class
+com\xworkz\leoffers\configuration\LeOffersConfiguration.class
+com\xworkz\leoffers\controller\LeOffersController.class
+com\xworkz\leoffers\repository\LeOffersRepositoryImplementation.class
+com\xworkz\leoffers\service\LeOffersService.class
+com\xworkz\leoffers\configuration\LeOffersWebInit.class
+com\xworkz\leoffers\repository\LeOffersRepository.class
+com\xworkz\leoffers\service\LeOffersServiceImplementation.class
